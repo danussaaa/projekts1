@@ -1,0 +1,15 @@
+#augsa {
+    position:absolute;              /*nosaka, ka bloks novietots konkrētā vietā*/
+    width:900px;                    /*bloka poatums*/
+    height:300px;                   /*bloka augstums*/
+    background-color: #a1ecc3;
+} 
+
+#apaksa {
+    position:absolute;              /*nosaka, ka bloks novietots konkrētā vietā*/
+    width:900px;                    /*bloka poatums*/
+    height:300px;                   /*bloka augstums*/
+    top:300px;                      /*nobīde no lapas augšas*/
+    background-color: #9c94eb;
+}
+

@@ -1,0 +1,52 @@
+#augsa {
+    vertical-align:middle;
+    line-height: 300px;
+    position:absolute;              /*nosaka, ka bloks novietots konkrētā vietā*/
+    width:1000px;                    /*bloka poatums*/
+    height:300px;                   /*bloka augstums*/
+    background-color: #a1ecc3;
+   
+  
+} 
+
+#apaksa {
+    vertical-align:middle;
+    line-height: 300px;
+    position:absolute;              /*nosaka, ka bloks novietots konkrētā vietā*/
+    width:1000px;                    /*bloka poatums*/
+    height:300px;                   /*bloka augstums*/
+    top:800px;                      /*nobīde no lapas augšas*/
+    background-color: #9c94eb;
+    
+  
+}
+
+#labi {
+    vertical-align:middle;
+    line-height: 500px;
+    position:absolute;              /*nosaka, ka bloks novietots konkrētā vietā*/
+    width:605px;                    /*bloka poatums*/
+    left: 400px;
+    height:500px;                   /*bloka augstums*/
+    top: 300px;
+
+    background-color: #da94eb;
+}
+ 
+#kreisi {
+    vertical-align:middle;
+    line-height: 500px;
+    position:absolute;              /*nosaka, ka bloks novietots konkrētā vietā*/
+    width:390px;                    /*bloka poatums*/
+    height:500px;                   /*bloka augstums*/
+    top:300px;                      /*nobīde no lapas augšas*/
+    
+    background-color: #eb94d8;
+}
+
+div {
+    text-align-last: center;
+    
+
+}
+

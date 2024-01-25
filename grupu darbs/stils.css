@@ -1,0 +1,36 @@
+body {
+  background-color: #e9cee9;
+}
+body {
+  color:#554083;
+}
+ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    width: 200px;
+    background-color: 	#d39ed4;
+  }
+  
+  li:first-child {
+    background-color:	#a73da9;
+  }
+
+li a {
+    display: block;
+    color:#443368 ;
+    padding: 15px 50px;
+    text-decoration:none ;
+  }
+  
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
+
+ 
+  
+  li:last-child {
+    border-bottom: none;
+  }
+  

@@ -1,0 +1,26 @@
+body {
+    background-color: #141414;
+  }
+
+  body {
+    color: white;
+  }
+
+  .button {
+    border: none;
+    color: black;
+    padding: 15px   32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer
+
+}
+
+button:hover {
+  background-color: white;
+  color: grey;
+}
+

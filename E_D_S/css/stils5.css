@@ -1,0 +1,14 @@
+body {
+    background-color: #141414;
+  }
+
+  body {
+    color: white;
+  }
+
+
+button:hover {
+  background-color: white;
+  color: grey;
+}
+
